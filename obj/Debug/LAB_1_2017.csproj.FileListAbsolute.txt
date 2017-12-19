@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\bin\Debug\LAB_1_2017.exe.config
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\bin\Debug\LAB_1_2017.exe
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\bin\Debug\LAB_1_2017.pdb
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\obj\Debug\LAB_1_2017.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\obj\Debug\LAB_1_2017.exe
+C:\Users\1\Desktop\КПИ\LAB_1_2017\LAB_1_2017\obj\Debug\LAB_1_2017.pdb
